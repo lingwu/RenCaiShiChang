@@ -1,0 +1,260 @@
+body{color:#333333; font-family:'宋体';}
+.wrap{width:960px;margin:0 auto;}
+
+/* header */
+.header{}
+.header-top{background-color:#F8F8F8; border-bottom:1px solid #E5E5E5; padding:4px 0 3px;}
+.header-top p{padding-left:12px;}
+.header-top p s{text-decoration:none;}
+.header-top a{float:left; margin-right:5px; color:#666666; background:url(../img/header-top-a.png) 0 0 no-repeat; padding-left:18px;}
+.header-top .collection{background-position:0 0 ;}
+.header-top .set-homepage{background-position:0 -44px;}
+.header-top .contact-us{background-position:0 -91px;}
+.header-top span{background:url(../img/header-top-span.gif) 0 -2px no-repeat; float:left;  padding-left:5px; padding-right:5px;}
+.logo-block{margin:7px 0;}
+.navigation{border-bottom:5px solid #058EDC;}
+.navigation ul{background:url(../img/nav-ul-bg.png) right 0 no-repeat; }
+.navigation ul li{float:left;  }
+.navigation ul li a{ display:block; font-weight:bold; text-align:center; color:#006699; font-size:14px; background:url(../img/nav-a.gif) right center no-repeat; padding:6px 20px 5px 21px; }
+.navigation ul li .last{background:none;}
+.navigation ul li a:hover{text-decoration:none; }
+.navigation ul .home-page{margin-right:7px; background:none; }
+.navigation ul .home-page a{background:url(../img/first.jpg) 0 center no-repeat;width:100px;  color:#FFF36F; margin:0px; padding:6px 0 5px; }
+
+
+
+
+
+.header-bottom{background:url(../img/header-bottom-bg.gif) 0 0 repeat-x; border:1px solid #CCCCCC; border-top:0px; height:34px;}
+.header-bottom ul{margin-left:25px;}
+.header-bottom ul li{background:url(../img/header-bottom-li.gif) right center no-repeat; line-height:34px; float:left; margin-right:20px; padding-right:25px;}
+.header-bottom ul .last{background:none;}
+.header-bottom ul li span{color:#165986; background:url(../img/header-bottom-span.png) 0 0 no-repeat; padding-left:20px; display:block;}
+.header-bottom ul li .resume{background-position:0 9px;}
+.header-bottom ul li .register-num{background-position:0 -66px;}
+.header-bottom ul li .enterprise{background-position:0 -140px;}
+.header-bottom ul li .post{background-position:0 -224px;}
+.header-bottom ul li s{color:#FC2F04; text-decoration:none;}
+
+/* main */
+.main{margin-top:5px;}
+.announcement{width:220px; margin-right:5px;}
+.announcement h2{background:url(../img/announcement.png) 0 center no-repeat; height:34px; line-height:34px; padding-left:12px;}
+.announcement h2 span{background:url(../img/announcement-span.png) 0 center  no-repeat; display:block; padding-left:26px; color:#CC9900; font-size:14px; }
+.announcement ul{background:url(../img/announcement-content.png) 0 0 no-repeat;  padding:10px 12px 3px;}
+.announcement ul li{background:url(../img/announcement-li-bg.gif) 0 bottom repeat-x; padding-bottom:7px;  padding-left:7px; margin-bottom:10px;}
+.announcement ul li a{background:url(../img/announcement-li-a.gif) 0 5px no-repeat; padding-left:7px; color:#333333;}
+.announcement .last{background:none; margin-bottom:0px;}
+
+.Options{margin-bottom:13px;}
+.search-block{width:530px; height:195px; margin-right:3px;}
+.search{border:1px solid #D6D6D6; padding:22px 13px 8px 20px;}
+.search form select{width:160px; height:21px; color:#6D6D6D;}
+.search-text{height:30px; width:281px; color:#9A9A9A; padding-left:4px; border:1px solid #A8A8A8; line-height:30px;}
+.search-button{background:url(../img/search-button.gif) 0 0 no-repeat; width:119px; height:30px; border:0px; cursor:pointer; margin:0 8px 0 10px;}
+.job-search {margin-bottom:15px;}
+.job-search a{background:url(../img/magnifier.gif) 0 8px no-repeat; padding-left:20px; padding-top:5px; color:#636363;}
+.hot-jobs h2{color:#FF3300; margin-bottom:10px;}
+.hot-jobs ul li{float:left; width:230px; height:18px; }
+.hot-jobs ul li a{background:url(../img/hot-jobs-li.gif) 0 center no-repeat; padding-left:17px; color:#993300;}
+.hot-jobs ul li span{padding-left:5px;}
+
+.ring-up{width:198px;}
+.tab li{float:left; margin-right:6px;}
+.tab li a{background:url(../img/ring-up-a.gif) 0 center no-repeat; display:block; width:94px; height:38px; text-align:center; line-height:38px; color:#333333; font-weight:bold; font-size:14px;}
+.tab li .current{background:url(../img/ring-up-current.gif) 0 center no-repeat; width:98px;}
+.tab li a:hover{text-decoration:none;}
+.tab .last{margin-right:0px;}
+.tab-content{padding:12px 12px 5px 10px;}
+.personal-login{background:url(../img/ring-up-content.png) 0 0 no-repeat;}
+.enterprise-login{background:url(../img/ring-up-content.png) 0 -257px no-repeat; }
+.tab-content form input{width:174px; height:25px; margin-bottom:8px; padding-left:5px; background:url(../img/tab-content-input.png) 0 center no-repeat; border:0px; line-height:24px; color:#666666;}
+.tab-content form p input{width:75px; background:url(../img/yanzhengma.gif) 0 0 no-repeat; margin-right:8px; margin-bottom:0px;}
+.tab-content form p img{float:left;}
+.tab-content .button{margin-top:13px; text-align:center;;}
+.tab-content .button input{background:url(../img/button.jpg) 0 center no-repeat; width:75px; height:28px;}
+.tab-content .button .login{background-position:right center;}
+
+.advertisement{margin:7px 0;}
+
+.main-bottom-left{width:642px;}
+.bring-in{margin-bottom:7px;}
+.bring-in h2{background:url(../img/bring-in-title.png) 0 center no-repeat; height:33px; line-height:32px;}
+.bring-in h2 span{font-size:14px; padding-left:50px; color:#000000;}
+.bring-in h2 a{padding-right:13px; color:#000000;}
+.bring-in-content{border:1px solid #E5E5E5; border-top:0px; padding:13px 0px 4px 10px;}
+.bring-in-content .bring-in-infor li{width:305px; margin-right:10px; float:left; margin-bottom:7px; display:inline;}
+.border-block{border:1px solid #E6E6E6; padding:8px 14px;}
+.application-infor{padding-bottom:10px;}
+.bring-in-content h3 a{float:left; background:url(../img/arrow.gif) 0 center no-repeat;  padding-left:15px; color:#000000;}
+.bring-in-content h3 span{float:left;}
+.bring-in-content p a{margin-right:10px; text-decoration:underline; color:#0099CC;}
+.bring-in-content table{width:620px; }
+.bring-in-content table tr th{font-weight:bold;}
+.bring-in-content table tr td,.bring-in-content table tr th{text-align:center;}
+.bring-in-content table tr{background:url(../img/table-tr-bg.gif) 0 bottom repeat-x; height:25px; vertical-align:middle;}
+.bring-in-content table tr a{color:#333333;}
+
+.main-bottom-right{width:313px;}
+.recruitment-infor{margin-bottom:5px;}
+.recruitment-infor h2{background:url(../img/recruitment-infor-he.gif) 0 center no-repeat; height:36px; line-height:36px;}
+.recruitment-infor h2 span{float:left; font-size:14px; padding-left:18px;}
+.recruitment-infor h2 a{float:right; color:#666666; padding-right:18px;}
+.recruitment-content{border:1px solid #CCCCCC; border-top:0px;}
+.recruitment{background:url(../img/recruitment.jpg) right 0 no-repeat;  }
+.news-centre,.recruitment,.recommend,.interactive-service,.friend-link{padding:13px 11px 5px 18px; }
+
+
+.recruitment li{line-height:22px; width:282px; float:left;}
+.recruitment a{background:url(../img/recruitment-a.gif) 0 center no-repeat; padding-left:7px; color:#993300;}
+.news-centre li{line-height:24px; width:282px; float:left;}
+.news-centre a{float:left; color:#000000; background:url(../img/news-centre-a.gif) 0 center no-repeat; padding-left:7px;}
+.news-centre span{float:right; color:#666666; font-size:11px;}
+.advertisement-right{border:1px solid #CCCCCC; margin-bottom:10px;}
+
+.recommend li {line-height:24px;}
+.recommend li a{background:url(../img/arrow.gif) 0 center no-repeat; padding-left:15px; color:#666666;}
+.recommend li a strong{color:#006699; padding-right:15px;}
+
+.recruitment-infor .interactive-service{background:url(../img/interactive-service.jpg) 0 center no-repeat; padding-left:97px; margin-left:15px; padding-right:0px;}
+.interactive-service li{ float:left; width:94px; margin-right:5px; display:inline; margin-bottom:5px;}
+.interactive-service a{background:url(../img/interactive-service-a.gif) 0 center no-repeat; display:block;  height:36px;  line-height:34px; color:#006699; font-size:14px; padding-left:26px;}
+
+.recruitment-infor form{margin-left:26px;}
+.recruitment-infor .friend-link{background:url(../img/friend-link.gif) 0 center no-repeat; padding-left:65px;}
+.friend-link li{margin-bottom:8px;}
+.friend-link li select{width:204px; height:22px;}
+
+.friend-link-img{margin:0 6px 8px;}
+.friend-link-img  img{border:1px solid #E5E5E5;  }
+
+/* footer */
+.footer{margin-top:6px; border-top:2px solid #C0D5E9; text-align:center; padding-top:15px; margin-bottom:10px;}
+.footer p a{color:#333333;}
+
+
+/* register.html */
+.register-main{background:url(../img/register-main.jpg) 0 0 no-repeat; height:447px; }
+.register-main-block{padding:29px 128px 12px 129px; }
+.User-Login{ background:url(../img/form-bg.jpg) 0 bottom no-repeat; margin-top:16px;height:343px; margin-left:2px; }
+.register-main h2{margin:20px 0 0 109px;}
+.register-main form{ text-align:center; margin:0 auto;padding-top:33px;}
+.register-main form .tab-cut{text-align:center; color:#848484;}
+.register-main form p label{padding-right:10px; padding-left:5px;}
+.register-main-content{margin-top:20px;}
+.register-main-content p{font-size:14px; color:#000; margin-bottom:17px; line-height:30px;}
+.register-main-content p input{width:254px; background:url(../img/register-input.gif) 0 0 no-repeat; border:0px; height:30px; line-height:30px;}
+
+.register-main-content .auth-code{padding-left:188px;}
+.register-main-content .auth-code  input{width:75px; background:url(../img/auth-code.gif) 0 0 no-repeat; float:left;}
+.auth-code span{float:left; padding-right:15px;}
+.auth-code img{float:left; padding:0 10px;}
+.register-main-content .auth-code .button{background:url(../img/register-button.gif) 0 0 no-repeat; cursor:pointer; height:33px;}
+
+
+/* enroll.html */
+.register-main .enroll{ text-align:left; margin-left:77px;padding-top:33px;} 
+.register-main .enroll .tab-cut{ text-align:left; margin-left:73px;} 
+.register-main .enroll s{color:#707070; text-decoration:none; font-size:12px; padding-left:13px;}
+.enroll .user-enroll{background:url(../img/user-enroll.gif) 0 0 no-repeat; height:33px; margin-left:13px; width:93px;}
+
+/* vocational-guidance.html */
+.vocational-guidance{padding-right:16px; padding-left:6px;}
+.vocational-guidance li{background:url(../img//announcement-li-bg.gif) 0 bottom repeat-x; line-height:30px; height:30px; float:left; width:608px; }
+.vocational-guidance li a{color:#000; float:left; background:url(../img/vocational-guidance-a.gif) 0 center no-repeat; padding-left:22px;}
+.vocational-guidance li span{float:right; font-size:11px; color:#999999;   }
+.paging{text-align:center; margin-top:12px; margin-bottom:3px;}
+.paging ul{ display:inline-block; *display:inline; zoom:1;}
+.paging ul li {float:left; margin-right:10px; color:#666666; margin-left:2px;}
+.paging ul li a{float:left; margin-right:10px; color:#666666;}
+
+
+/* Personal-job.html */
+.Personal-job form{padding-top:9px; color:#666666;}
+.Personal-job form select{width:205px; height:21px;}
+.Personal-job form p{margin-bottom:9px;}
+.Personal-job form p input{width:80px;}
+.Personal-job .Degree select{width:100px;}
+.Personal-job form .HR-Search{text-align:center; padding-top:5px;}
+.Personal-job form .HR-Search input{background:url(../img/HR-Search.gif) 0 center no-repeat; border:0px; width:107px; height:20px; line-height:20px; cursor:pointer;}
+
+/* Recruitment.html */
+.Personal-job form p input{width:205px; height:20px; line-height:20px;}
+.Recruitment .paging{margin-top:14px; margin-bottom:10px;}
+
+/* human-agency.html */
+.human-agency{margin:0 55px 7px 32px;}
+.human-agency-block .bring-in-content{padding-bottom:12px;}
+
+/* news-content.html */
+.news-content{margin:0 18px 0 10px;}
+.news-content .article-title h2{background:none; text-align:center; font-size:14px; border-bottom:1px solid #CCCCCC; color:#000000; padding-bottom:3px;}
+.article-title p{text-align:center; color:#999999; margin-top:10px;}
+.article-title p span{padding-right:30px; padding-left:5px;}
+.article-content{margin-top:20px; color:#000;}
+.article-content p{text-indent:2em; line-height:24px;}
+
+
+/* Post-job.html */
+.post-job{background:url(../img/post-job.gif) 0 0 repeat-y;}
+.post-job-nav{border-top:1px solid #D0DAF3; width:123px; text-align:right;}
+.post-job-nav ul li{margin-top:2px;}
+.post-job-nav ul li a{color:#3058AC; font-size:14px; height:59px; display:block; line-height: 59px; padding-right:15px;}
+.post-job-nav ul li a:hover,.post-job-nav .current{text-decoration:none; background:url(../img/post-job-nav.gif) 0 center no-repeat; }
+.post-job-content{width:837px;}
+.post-job-block{border:1px solid #D0DAF3; border-left:0px; padding:0px 17px 17px 15px;}
+.post-job-block h2{background:url(../img/post-job-block-h2.gif) 0 center no-repeat; height:34px; line-height:34px; padding-left:50px; color:#000; margin-bottom:15px; margin-top:17px;}
+.post-job-block form table{margin-left:50px;}
+.post-job-block .field{text-align:right; padding-right:20px;}
+.post-job-block table tr td{height:30px;}
+.post-job-block .duty-td{height:145px;}
+.post-job-block  input{height:22px; line-height:22px;}
+.post-job-block .name{width:299px;}
+.post-job-block .job_area{width:200px; height:23px;}
+.post-job-block .department{width:200px;}
+.post-job-block .number{width:60px;}
+.post-job-block .duty{width:610px; height:138px;}
+.post-job-block label{padding:0 10px 0 5px; height:30px; line-height:20px;}
+.post-job-block .education{width:130px; height:23px;}
+.post-job-block form p{text-align:center; margin-top:20px;}
+.post-job-block form p input{background:url(../img/Save.gif) 0 center no-repeat; width:93px; height:33px; border:0px;}
+.post-job-block form span{color:red;}
+
+/* Resume-registration.html */
+.post-job-block form h2 span{padding-right:10px;}
+.post-job-block .Resume-field{text-align:left; padding-right:20px;}
+.post-job-block  s{color:#FF663A; text-decoration:none;}
+.post-job-block .per-name{width:165px;}
+.post-job-block .birthday input{width:45px;}
+.post-job-block .ID-type {width:88px;}
+.post-job-block .tel {width:75px;}
+.post-job-block .tel-content {width:136px;}
+.post-job-block .per-email {width:217px;}
+.post-job-content  .Resume-registration table{margin-left:70px;}
+.Resume-registration select{height:23px;}
+.Resume-registration  textarea{height:100px; width:485px;}
+.Resume-registration  .educational-experience{height:108px; padding-left:45px;}
+.post-job-content .Objective .Resume-field{width:120px;}
+.post-job-content .industry{width:160px;}
+.post-job-content .quarters{width:128px;}
+.post-job-content .time{padding-left:30px; height:20px; }
+.post-job-content .time-top{padding-top:30px;}
+.Resume-registration form  p input{background:url(../img/resume.gif) 0 0 no-repeat;}
+
+/* Change-Password.html */
+.Change-Password form  table{margin-left:140px; font-size:14px; color:#000; margin-top:50px;}
+.Change-Password form  table input{width:254px; height:32px;}
+.Change-Password form  table td{height:50px;}
+.Change-Password form p input{background:url(../img/Change-Password.gif) 0 0 no-repeat;}
+
+/* Recruitment-infor.html */
+.post-job-block .Recruitment-infor{width:793px; margin:0px;}
+.Recruitment-infor tr{background:url(../img/announcement-li-bg.gif) 0 bottom repeat-x; height:30px; }
+.Recruitment-infor tr td,.Recruitment-infor tr th{text-align:center; }
+.Recruitment-infor tr td{color:#666666;}
+.Recruitment-infor tr td a{background:url(../img/Recruitment-infor-a.gif) 0 center no-repeat; display:block; width:51px; height:20px; border:1px solid #CDE6B5; color:#000; line-height:20px;}
+.Recruitment-infor tr td a:hover{text-decoration:none;}
+.post-job-block .paging {margin-top:0px;}
+.post-job-block .paging span{color:#666666;}
+.check-all{margin-top:12px;}
+.check-all .delete{height:20px; line-height:16px;}
